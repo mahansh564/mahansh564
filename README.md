@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anshul Mahajan! I am a Bachelor's student at Aalto University studying Computational Engineering.
+- 👋 Hi, I’m Anshul Mahajan! I am a Master's student at Aalto University studying Computer Science.
 - 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Node.JS.
+- 🌱 I’m currently leading tech @ [Slush](https://slush.org).
 - 📫 Reach out to me at anshul.mahajan@aalto.fi
 
 <!---
